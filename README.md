@@ -9,7 +9,8 @@ The purpose of this challenge is to use Git and Github to create and submit a tr
   ```helloworld.py``` file in to the URL window at [runpython.com](http://runpython.com),
   then press ```load``` and ```>``` (it shouldn't do anything yet).
 4. Press the ```login``` button at runpython.com go connect with Github. You can now edit your version
-  of ```helloworld.py```. Press ```commit``` to save/commit your edits to Github. Verify that your
+  of ```helloworld.py```. Add your code at the bottom of the file (after the ```#``` comments). 
+  Press ```commit``` to save/commit your edits to Github. Verify that your
   version of ```helloworld.py``` on Github is being updated correctly.
 5. Issue a [pull request](https://help.github.com/articles/using-pull-requests/) to submit your code.
 6. Your code will be subjected to a rudimentary automatic test and will be accepted or rejected.
