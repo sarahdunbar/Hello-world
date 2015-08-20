@@ -18,7 +18,8 @@ The purpose of this challenge is to use Git and Github to create and submit a tr
 
 ##Assignment
 
-Write and submit a Python program that prints the following:
+Write and submit a Python program that prints the following (Note: your program must produce
+output that matches **exactly**!):
 
 ```
 Hello, world!
