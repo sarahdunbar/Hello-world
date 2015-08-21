@@ -8,4 +8,4 @@ git init
 git pull https://${GH_TOKEN}@${GH_REPO}
 cd ..
 
-python tests/test.py ${TESTMODULE}
+python ./tests/test.py ${TESTMODULE}
