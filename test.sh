@@ -6,5 +6,6 @@ mkdir tests
 cd tests
 git init
 git pull https://${GH_TOKEN}@github.com/HHS-IntroProgramming-Fall2015/tests.git
+cd ..
 
 python tests/test.py ${TESTMODULE}
