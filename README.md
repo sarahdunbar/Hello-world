@@ -16,7 +16,7 @@ The purpose of this challenge is to use Git and Github to create and submit a tr
 6. Your code will be subjected to a rudimentary automatic test and will be accepted or rejected.
 7. Fix any issues and repeat the pull request if necessary
 
-##Assignment
+##Assignment 
 
 Write and submit a Python program that prints the following (Note: your program must produce
 output that matches **exactly**!):
