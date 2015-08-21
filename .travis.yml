@@ -7,6 +7,5 @@ python:
 script: bash ./test.sh
 env:
   global:
-  - secure: "ArOQJk9+gNxRirT2Y8qRCx/bn3uZaWrBaHAG9IuDRI/G4izIxLtO6SCf8cw/5lxuoByNyuzFPfeewV7xgRfQfeVW7F6VEYJ1vwnHzVcuQXE1KOZrDmFmfMjSAnlK74tfEaZEIh/eOAodzOFQxAvUa+dg2Lp7jXfKXQ0IpJ0EJ9tCHpQzo2UAymOGDZk2/BpgaMqDywAhYhTMs60Rl8Wav/buxnaLdPO8ENOzjDWy5NtGjcSa/XQnfgbSRoHVyp74izmme5SqAOMJFTzjFfMDEvjoqrownfSBS3vnAGdXYx908yyXOR/mmikhqY0SXz+7JC2v+/eFwlJWYadI9qq0z3rJrdO7f/ZygMjlD3RC98Az7Jd4m9FGo5E2MFvXKjqZyLkIgkkiDrkze4spUtnQKTR1QQ5rY/cJrKd8x/t22PfPW3YwgfnPY+v6GzLuv7IEkW4tJfQyPd6jZsvpxvp2wyp07F+86kHIAZwR4Fxo5bUy0jvwMy8LozL6k4Fg/wQ/b5q870hZbP3wxhrzrNMsFinhSnEQK/6oMxaFqEzh7SzgXE4V9yA7CvOD+t/Ps9P5qcmopxZpPucl/LKrtxDNiaB4nxvL0wManH1WRaH07btj8wMmKJAPAfTFGJGSU2OfD56jiLnpVWCq2RwQD+l4MlAjLyzGQZsGtdP810rIfkQ="
   - TESTMODULE: helloworld.py
   - GH_REPO: github.com/HHS-IntroProgramming-Fall2015/tests.git
