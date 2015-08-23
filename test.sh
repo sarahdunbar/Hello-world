@@ -5,7 +5,7 @@ set -e # exit with nonzero exit code if anything fails
 mkdir tests
 cd tests
 git init
-git pull https://${GITHUB_TOKEN}@${GH_REPO}
+git pull https://${GH_REPO}
 cd ..
 
 python tests/test.py ${TESTMODULE}
