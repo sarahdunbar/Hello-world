@@ -14,7 +14,7 @@ The purpose of this challenge is to use Git and Github to create and submit a tr
   version of ```helloworld.py``` on Github is being updated correctly.
 5. Issue a [pull request](https://help.github.com/articles/using-pull-requests/) to submit your code.
 6. Your code will be subjected to a rudimentary automatic test and will be accepted or rejected.
-7. Fix any issues and repeat the pull request if necessary
+7. If you need to make any changes, **close** the first pull request and submit a new one when you're ready.
 
 ##Assignment 
 
