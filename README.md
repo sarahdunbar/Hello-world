@@ -18,7 +18,10 @@ Use the following procedure for submitting all of your programs:
   Press ```commit``` to save/commit your edits to Github. Verify that your
   version of ```helloworld.py``` on Github is being updated correctly.
 7. Issue a [pull request](https://help.github.com/articles/using-pull-requests/) to submit your code.
-8. Your code will be subjected to a rudimentary automatic test and will be accepted or rejected.
+8. Your code will be subjected to a rudimentary automatic test and will be accepted or rejected. If your
+  pull request fails (shows a big **red x**), click on the ```details``` link to see a log of the test
+  that failed. In particular, check for messages near the *very end of the log* to understand what exactly
+  failed.
 9. Continue to edit your code from [runpython.com](http://runpython.com). Every time you commit a change
   the new code will be tested again.
 10. To see the status of your pull request from your Github account, visit the ```Pull requests``` link at
