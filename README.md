@@ -2,7 +2,7 @@
 
 The purpose of this challenge is to use Git and Github to create and submit a trivial Python program.
 
-Following is the procedure you will follow for submitting all of your programs:
+Use the following procedure for submitting all of your programs:
 
 1. Create your Github account.
 2. [Fork](https://guides.github.com/activities/forking/) this repository to your own account (don't
